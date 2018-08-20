@@ -1,4 +1,6 @@
 Strawberry Pie
 ===================
 -Cherries
--Pie Crust
+-Crust
+-Fillings
+-Blueberries
